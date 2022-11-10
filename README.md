@@ -4,7 +4,7 @@
 Here It is an An charitable organization or charity is an organization whose primary objectives are philanthropy and social well-being e.g(. educational, religious or other activities serving the public interest or common good).
 
 ## MY WEBSITE LINK IS: https://witty-bay-0a474e900.2.azurestaticapps.net/
-
+## APP SERVICE LINK: https://livsaverz.azurewebsites.net/
 ## Home
 ![Screenshot 2022-10-27 201608](https://user-images.githubusercontent.com/116268206/198322006-c52fa0b1-6b0f-4de0-9c0f-bbe5225c215a.jpg)
 ![Screenshot 2022-10-27 201545](https://user-images.githubusercontent.com/116268206/198322017-0299b349-152f-484e-b19f-e5cec323c69e.jpg)
