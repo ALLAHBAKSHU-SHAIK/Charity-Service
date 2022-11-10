@@ -17,3 +17,9 @@ Here It is an An charitable organization or charity is an organization whose pri
 
 ## Contact
 ![Screenshot 2022-10-27 201736](https://user-images.githubusercontent.com/116268206/198322311-ffb2feb6-ed23-4d16-bc5d-d6c147313b06.jpg)
+
+## Azure tools used:
+<img width="452" alt="resources" src="https://user-images.githubusercontent.com/116268206/201050759-305d4198-6768-4464-844e-b7f701b364e0.png">
+
+<img width="626" alt="static" src="https://user-images.githubusercontent.com/116268206/201050796-84d46e9b-db97-4231-87ae-88bc718aa2c0.png">
+<img width="668" alt="appservices" src="https://user-images.githubusercontent.com/116268206/201050837-71f24247-c4fa-4c3b-9edc-5547183f3ba9.png">
