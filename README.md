@@ -43,5 +43,6 @@ https://user-images.githubusercontent.com/116268206/209907368-e8a1ab07-7cd0-4de7
 
 ## Azure tools used:
 <img width="452" alt="resources" src="https://user-images.githubusercontent.com/116268206/201050759-305d4198-6768-4464-844e-b7f701b364e0.png">
+
 ![Screenshot_20221229_110159](https://user-images.githubusercontent.com/116268206/209907491-1fedbe16-c40a-41fd-916e-1c22aaa250d4.png)
 ![Screenshot_20221229_110132](https://user-images.githubusercontent.com/116268206/209907493-fb48e22d-c236-4f72-b569-fe6d0dcd7b6e.png)
