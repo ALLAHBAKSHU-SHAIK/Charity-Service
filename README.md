@@ -23,6 +23,10 @@ Static Web App URL : https://witty-bay-0a474e900.2.azurestaticapps.net
 
 App Services URL : https://livsaverz.azurewebsites.net
 
+Demo Video :
+
+https://user-images.githubusercontent.com/116268206/209907368-e8a1ab07-7cd0-4de7-8c3b-81affba53267.mp4
+
 ## MY WEBSITE LINK IS: https://witty-bay-0a474e900.2.azurestaticapps.net
 ## Home
 ![Screenshot 2022-10-27 201608](https://user-images.githubusercontent.com/116268206/198322006-c52fa0b1-6b0f-4de0-9c0f-bbe5225c215a.jpg)
@@ -39,3 +43,5 @@ App Services URL : https://livsaverz.azurewebsites.net
 
 ## Azure tools used:
 <img width="452" alt="resources" src="https://user-images.githubusercontent.com/116268206/201050759-305d4198-6768-4464-844e-b7f701b364e0.png">
+![Screenshot_20221229_110159](https://user-images.githubusercontent.com/116268206/209907491-1fedbe16-c40a-41fd-916e-1c22aaa250d4.png)
+![Screenshot_20221229_110132](https://user-images.githubusercontent.com/116268206/209907493-fb48e22d-c236-4f72-b569-fe6d0dcd7b6e.png)
