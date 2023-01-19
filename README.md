@@ -25,7 +25,6 @@ App Services URL : https://livsaverz.azurewebsites.net
 
 ## MY WEBSITE LINK IS: https://witty-bay-0a474e900.2.azurestaticapps.net
 
-https://user-images.githubusercontent.com/116268206/213401787-753af6d1-c5e4-4ac7-8d2a-f4f61b7ff186.mp4
 
 ## Home
 ![Screenshot 2022-10-27 201608](https://user-images.githubusercontent.com/116268206/198322006-c52fa0b1-6b0f-4de0-9c0f-bbe5225c215a.jpg)
