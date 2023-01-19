@@ -23,13 +23,10 @@ Static Web App URL : https://witty-bay-0a474e900.2.azurestaticapps.net
 
 App Services URL : https://livsaverz.azurewebsites.net
 
-Demo Video :https://drive.google.com/file/d/10H07TN9Bqx23O3siJQlDphPV6ns3iFWO/view?usp=sharing
+## MY WEBSITE LINK IS: https://witty-bay-0a474e900.2.azurestaticapps.net
 
 https://user-images.githubusercontent.com/116268206/213401787-753af6d1-c5e4-4ac7-8d2a-f4f61b7ff186.mp4
 
-
-
-## MY WEBSITE LINK IS: https://witty-bay-0a474e900.2.azurestaticapps.net
 ## Home
 ![Screenshot 2022-10-27 201608](https://user-images.githubusercontent.com/116268206/198322006-c52fa0b1-6b0f-4de0-9c0f-bbe5225c215a.jpg)
 ![Screenshot 2022-10-27 201545](https://user-images.githubusercontent.com/116268206/198322017-0299b349-152f-484e-b19f-e5cec323c69e.jpg)
@@ -42,6 +39,9 @@ https://user-images.githubusercontent.com/116268206/213401787-753af6d1-c5e4-4ac7
 
 ## Contact
 ![Screenshot 2022-10-27 201736](https://user-images.githubusercontent.com/116268206/198322311-ffb2feb6-ed23-4d16-bc5d-d6c147313b06.jpg)
+
+## Demo video
+https://user-images.githubusercontent.com/116268206/213401787-753af6d1-c5e4-4ac7-8d2a-f4f61b7ff186.mp4
 
 ## Azure tools used:
 <img width="452" alt="resources" src="https://user-images.githubusercontent.com/116268206/201050759-305d4198-6768-4464-844e-b7f701b364e0.png">
